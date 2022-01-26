@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  
+  display: block;
+}
+.imgbox img{
+  width: 1400px;
+  height: 800px;
+  transition: width 1s ease-in-out;
+}
